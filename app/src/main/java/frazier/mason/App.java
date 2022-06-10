@@ -5,6 +5,7 @@ package frazier.mason;
 
 public class App {
     public String getGreeting() {
+        System.out.println("my name is FRaaaashaaaa");
         return "Hello World!";
     }
 
